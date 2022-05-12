@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">高度</string>
+    <string name="lan_english">英語</string>
+    <string name="lan_russian">ロシア</string>
+    <string name="lan_uzbek">ウズベク語</string>
+    <string name="lan_chinese">中国語</string>
+    <string name="lan_japanese">日本</string>
+    <string name="lan_korean">韓国語</string>
+
+
+    <plurals name="my_cats">
+        <item quantity="one">私は％s猫を飼っています</item>
+        <item quantity="other">私は％sの猫を飼っています</item>
+    </plurals>
+</resources>

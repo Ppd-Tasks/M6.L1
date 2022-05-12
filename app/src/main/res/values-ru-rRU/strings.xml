@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Передовой</string>
+    <string name="lan_english">Английский</string>
+    <string name="lan_russian">Русский</string>
+    <string name="lan_uzbek">Узбекский</string>
+    <string name="lan_chinese">Китайский</string>
+    <string name="lan_japanese">Японский</string>
+    <string name="lan_korean">Корейский</string>
+
+    <plurals name="my_cats">
+        <item quantity="one">У меня %s кот</item>
+        <item quantity="few">У меня %s кота</item>
+        <item quantity="many">У меня %s кошек</item>
+    </plurals>
+</resources>

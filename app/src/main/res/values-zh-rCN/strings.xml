@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">先进的</string>
+    <string name="lan_english">英语</string>
+    <string name="lan_russian">俄语</string>
+    <string name="lan_uzbek">乌兹别克语</string>
+    <string name="lan_chinese">中国人</string>
+    <string name="lan_japanese">日本人</string>
+    <string name="lan_korean">韩国人</string>
+
+    <plurals name="my_cats">
+        <item quantity="one">我有 %s 猫</item>
+        <item quantity="other">我有 %s 只猫</item>
+    </plurals>
+</resources>
